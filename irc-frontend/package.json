@@ -7,7 +7,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@preact/preset-vite": "^2.8.2",
+    "@preact/preset-vite": "^2.9.1",
     "hack-font": "^3.3.0",
     "preact": "^10.20.0",
     "preact-router": "^4.1.2",
