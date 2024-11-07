@@ -22,15 +22,14 @@ GEM
       racc
     pg (1.5.7)
     racc (1.8.1)
-    rack (3.1.7)
+    rack (3.1.8)
     rack-protection (4.0.0)
       base64 (>= 0.1.0)
       rack (>= 3.0.0, < 4)
     rack-session (2.0.0)
       rack (>= 3.0.0)
-    rackup (2.1.0)
+    rackup (2.2.0)
       rack (>= 3)
-      webrick (~> 1.8)
     rainbow (3.1.1)
     regexp_parser (2.9.2)
     rubocop (1.66.0)
@@ -55,7 +54,6 @@ GEM
       tilt (~> 2.0)
     tilt (2.4.0)
     unicode-display_width (2.5.0)
-    webrick (1.8.1)
 
 PLATFORMS
   ruby
@@ -66,7 +64,7 @@ DEPENDENCIES
   pg (~> 1.5)
   rack (~> 3.1)
   rack-session (~> 2.0)
-  rackup (~> 2.1)
+  rackup (~> 2.2, >= 2.2.0)
   rubocop (~> 1.66)
   sinatra (~> 4.0)
 
