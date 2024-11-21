@@ -12,7 +12,7 @@ gem "rack-session", "~> 2.0"
 
 gem "rubocop", "~> 1.66"
 
-gem "sinatra", "~> 4.0"
+gem "sinatra", "~> 4.1", ">= 4.1.0"
 
 gem "rackup", "~> 2.1"
 
