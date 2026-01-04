@@ -16,4 +16,4 @@ gem "sinatra", "~> 4.0"
 
 gem "rackup", "~> 2.1"
 
-gem "httparty", "~> 0.22.0"
+gem "httparty", "~> 0.24.0"
